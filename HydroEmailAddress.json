@@ -1,1 +1,6 @@
-email:zeba.niekhat@kyndryl.com,chandra.reddy@kyndryl.com
+"emailaddress": {
+			"email1": [
+                         "zeba.niekhat@kyndryl.com",
+                         "chandra.reddy@kyndryl.com",
+                         ]
+}
